@@ -46,3 +46,16 @@ $score = 85; // Example score
 //3. Navigate to the directory where the file is saved
 //4. Run the command: php controlstatements.php
 //5. Open a web browser and go to http://localhost/controlstatements.php (if using a local server) or the appropriate URL if hosted on a web server
+
+//switch statements
+//syntax
+<!-- switch (variable) {
+    case value1:
+        // code to be executed if variable == value1
+        break;
+    case value2:
+        // code to be executed if variable == value2
+        break;
+    default:
+        // code to be executed if variable doesn't match any case
+} -->
