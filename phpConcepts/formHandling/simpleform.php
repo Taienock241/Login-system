@@ -40,6 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "Email: " . $email;
 } else {
     echo "Invalid request method.";
+    echo "Invalid request method.";
 }   
 ?>
 
